@@ -1,6 +1,3 @@
-Name: Harsh Rajoria
-Student #: 43119247
-
 Project demo link (Youtube): https://www.youtube.com/watch?v=frCqy6txH70
 
 Construction:
